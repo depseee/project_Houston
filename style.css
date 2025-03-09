@@ -1,0 +1,32 @@
+body {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, sans-serif;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table {
+    border: 2px solid;
+}
+
+th, td {
+    border: 1px solid;
+    padding: 3px;
+}
+
+figure {
+    float: right; 
+    margin-left: 10px auto 10px 10px; 
+    text-align: center;
+    display: inline-block;
+}
+
+figcaption {
+    display: block;
+    width: 100%;
+}
